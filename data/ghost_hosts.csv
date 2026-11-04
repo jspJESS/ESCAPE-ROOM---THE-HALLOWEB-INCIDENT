@@ -1,0 +1,4 @@
+Hostname,IP,Threat,Severity
+ghost-web-01,192.0.2.10,WebShell,Critical
+spectral-db-02,198.51.100.24,CredentialTheft,High
+phantom-gw-03,203.0.113.8,PortScan,Medium
